@@ -1,6 +1,10 @@
 ![Profile views](https://komarev.com/ghpvc/?username=bwittmann&color=blueviolet) ![GitHub followers](https://img.shields.io/github/followers/bwittmann?label=Follow&style=social)
 
-## Highlighted Projects 💻
+### About me 💻
+I am a Ph.D. candidate in the Biomedical Image Analysis and Machine Learning Lab at the University of Zurich, where I focus on geometric deep learning. Feel free to reach out!
+
+
+<!-- ## Highlighted Projects 💻
 <table>
   <tr>
     <td>
@@ -47,14 +51,14 @@
       </a>
     </td>
     <td>
-      <!-- <a href="https://github.com/bwittmann/TransformerRefer"> OCTSEG
+      <a href="https://github.com/bwittmann/TransformerRefer">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=bwittmann&repo=TransformerRefer&show_owner=true" />
-      </a> -->
+      </a>
     </td>
     <td>
-      <!-- <a href="https://github.com/bwittmann/NavPy">
+      <a href="https://github.com/bwittmann/NavPy">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=bwittmann&repo=NavPy&show_owner=true" />
-      </a> -->
+      </a>
     </td>
   </tr>
-</table>
+</table> -->
