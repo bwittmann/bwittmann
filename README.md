@@ -1,8 +1,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=bwittmann&color=blueviolet) ![GitHub followers](https://img.shields.io/github/followers/bwittmann?label=Follow&style=social)
 
 ### About me 💻
-I am a Ph.D. candidate in the Biomedical Image Analysis and Machine Learning Lab at the University of Zurich, where I focus on geometric deep learning. Feel free to reach out!
-
+I am a Ph.D. candidate in the Biomedical Image Analysis and Machine Learning Lab at the University of Zurich, where I focus on advancing (bio)medical image analysis through artificial intelligence. Feel free to reach out for potential colaborations!
 
 <!-- ## Highlighted Projects 💻
 <table>
